@@ -1,0 +1,25 @@
+Tournament Summary
+==================
+Tournament ID: 20251209_012202
+Timestamp: 2025-12-09T01:22:02.993250
+
+Players:
+  Player 1: Bot1
+  Player 2: Bot2
+
+Results:
+  Bot1 wins: 1
+  Bot2 wins: 1
+  Draws: 1
+  Total games: 3
+
+Timing:
+  Total duration: 0.02s
+  Avg game duration: 0.01s
+
+Game Details:
+Game   Winner               Loser                Moves    Duration    
+------------------------------------------------------------------
+1      Bot1                 Bot2                 73       0.01s       
+2      Draw                 -                    0        0.00s       
+3      Bot2                 Bot1                 68       0.01s       
